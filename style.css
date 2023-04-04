@@ -1,1 +1,13 @@
-
+:root {
+    --azul:#B3DEE2;
+    --amarelo:#EAF2D7;
+    --rosabebê:#EFCFE3;
+    --branco:#FFFFFF;
+    --rosa:#E27396;
+}
+.cabecalho{
+    background-color: var(--rosabebê);   
+}
+.logo{
+    width: 7%;
+}
