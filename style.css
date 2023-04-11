@@ -6,8 +6,19 @@
     --rosa:#E27396;
 }
 .cabecalho{
-    background-color: var(--rosabebê);   
+    background-color: var(--rosabebê);  
+    display: flex;
+    justify-content: flex-start;
 }
 .logo{
     width: 7%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.menu-item{
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 25px;
+    color: var(--amarelo);
 }
