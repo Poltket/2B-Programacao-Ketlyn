@@ -29,4 +29,20 @@
 .principal{
     background-color: var(--rosa);
     color: var(--branco);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.principal-titulo{
+    font-size: 45px;
+    padding: 20px;
+}
+.principal-imagem{
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+}
+.principal-texto{
+font-size: 35px;
+padding: 20px;
 }
